@@ -24,8 +24,8 @@ Installation
    * openCV (cannot be install with pip or conda, need to be installed
      externally, using homebrew for instance)
 
-On mac, if you install opencv using homebrew, you may need to link manually
-openCV
+On mac, if you install opencv using homebrew and virtual environnement, you may 
+need to manually link openCV
 
 Execution
 ---------
