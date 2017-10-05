@@ -1,4 +1,4 @@
-DEMO IMCEPTION
+Demo Inception
 ==============
 
 This small python script simply demonstrates the third version of the inception
@@ -29,7 +29,7 @@ Execution
 
 Simply run 
 <pre>
-	python3 main.py
+python3 main.py
 </pre>
 
 The first time, the script will automatically download the inception network,
