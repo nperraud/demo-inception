@@ -21,8 +21,11 @@ Installation
    * matplotlib
    * gtts
    * pygame
-   * opencv (cannot be install with pip or conda, need to be installed
+   * openCV (cannot be install with pip or conda, need to be installed
      externally, using homebrew for instance)
+
+On mac, if you install opencv using homebrew, you may need to link manually
+openCV
 
 Execution
 ---------
